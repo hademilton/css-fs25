@@ -14,5 +14,9 @@ color: brown;
 text-decoration:none;
 font-weight: bold;
 }
+a:hover{ color: cadetblue;
+font-size: 20 px;
+transition: 0.3s ;
+}
 
 
